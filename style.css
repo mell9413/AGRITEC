@@ -1176,3 +1176,18 @@ div.cart-collaterals ul.products li.product:hover .add_to_cart_button{background
 	margin: 0 auto;
 	padding: 0;
 }
+
+footer{
+  height: 50px;
+  background:black;
+  width:100%;
+  position:absolute;
+  bottom:;
+  left:;
+  color: white;
+}
+
+#contacto {
+ float:center;
+ text-align: center;
+}
